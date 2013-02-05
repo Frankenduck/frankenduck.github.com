@@ -1,0 +1,18 @@
+.name {
+color: brown;
+font-size: 50px;
+}
+
+.school {
+color: blue;
+font-size: 36px;
+}
+
+body {
+text-align: center;
+}
+
+p {
+color: green;
+font-size: 20px;
+}
